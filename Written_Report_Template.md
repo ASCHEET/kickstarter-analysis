@@ -35,5 +35,5 @@
 ### ![Figure 3 - Outcomes Based on Goals with Number of Campaigns on Secondary Axis](C:\Users\ascheet\OneDrive - SESI, LLC\Documents\GitHub\practice\kickstarter-analysis-main.zip\kickstarter-analysis\Outcomes_vs.Goalswnumber_of_campaigns.png)
 ### Additionally, how long to expect to have a fundraiser open may help to understand when to start or how much time is needed to collect for successful campaigns.  Below, in Figure 4, shows
 ### that most successful fundraisers that were given more than 50 days to collect donations were much more successful.  More than 50 days the success vs failure inverses after 60 days showing more 
-### 'failed' campaigns than 'successful'.  
+### 'failed' campaigns than 'successful'.  ![Figure 4 - Outcomes Based on Funding Duration](C:\Users\ascheet\OneDrive - SESI, LLC\Documents\GitHub\practice\kickstarter-analysis-main.zip\kickstarter-analysis\Outcomes_based_on_funding_duration.png)
  
