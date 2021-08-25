@@ -2,7 +2,7 @@
 
 ## This project was requested by Louise after the success of her play 'Fever' came close to her fundraising goal in a short amount of time.
 
-###  At her request, Louise has asked for other kickstarter campaignes to be analyized related to launch dates and funding goals.
+###  At her request, Louise has asked for other kickstarter campaigns to be analyzed related to launch dates and funding goals.
 
 ## Analysis and Challenges
 
@@ -21,11 +21,11 @@
 ### Figure 2 shows the probability of reaching the crowd funding goals based on the monetary amount requested.  As you can see, fundraising campaigns less than $5000, 
 ### have a success rate of greater than 75%.  The trend is lower as the funding amount increases where is goes up to 75% for campaigns requesting for money between $25,000 and $35,000 dollars.
 
-### Challenges and difficulties to this data set is 1) the lack of clarity of failed kickstarter campaigns 2) and the aged data set itself only going through 2017.  
+### Challenges and difficulties to this data set is 1) the lack of clarity of failed Kickstarter campaigns 2) and the aged data set itself only going through 2017.  
 ## Results
 
-###- Conclusions you can draw about the Outcomes Based on Launch Date have and average success rate of 39% over failed campaigns during the course of the year.  
-##However, there is a spike in success rates for the months of May, June, and July that are above average (44-51%) respectivly.
+### Conclusions you can draw about the Outcomes Based on Launch Date have and average success rate of 39% over failed campaigns during the course of the year.  
+### However, there is a spike in success rates for the months of May, June, and July that are above average (44-51%) respectively.
 
 ### Conclusions about the Outcomes based on Goals show that keeping fundraisers below $5,000 has a significantly higher success rate than above $5,000.  Also, there is much more data that can 
 ### be evaluated below $25,000.  
@@ -33,3 +33,7 @@
 ### Limitations of this dataset show charts can be misleading as there are very few campaigns (less than 40 total both failed and successful) that were over $25,000.
 ### Figure 3 below shows an Outcomes Based on Goals but has the Number of Campaigns plotted on a secondary axis to give an additional perspective of what might be expected.  
 ### ![Figure 3 - Outcomes Based on Goals with Number of Campaigns on Secondary Axis](C:\Users\ascheet\OneDrive - SESI, LLC\Documents\GitHub\practice\kickstarter-analysis-main.zip\kickstarter-analysis\Outcomes_vs.Goalswnumber_of_campaigns.png)
+### Additionally, how long to expect to have a fundraiser open may help to understand when to start or how much time is needed to collect for successful campaigns.  Below, in Figure 4, shows
+### that most successful fundraisers that were given more than 50 days to collect donations were much more successful.  More than 50 days the success vs failure inverses after 60 days showing more 
+### 'failed' campaigns than 'successful'.  
+ 
