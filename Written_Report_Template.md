@@ -16,9 +16,9 @@
 
 ### Analysis of Outcomes Based on Goals is shown below in Figure 2. 
 ![Figure 2 - Funding Outcomes Based on Monetary Goal](https://github.com/ASCHEET/kickstarter-analysis/blob/main/Outcomes_vs.Goals.png?raw=true)
-### Figure 2 shows the probability of reaching the crowd funding goals based on the monetary amount requested.  As you can see, fundraising campaigns less than $5000, have a success rate of greater than 75%.  
-### The trend is decreases as the funding amount increases generally.  There is a point where it goes up to 75% for campaigns requesting for money between $25,000 and $35,000 dollars, but we must understand it is a limited data set and the trend might not be truly representative.
-
+### Figure 2 shows the probability of reaching the crowd funding goals based on the monetary amount requested.  As you can see, fundraising campaigns less than $5,000, have a success rate of greater than 75%.  
+### The trend decreases as the requested funding amount generally increases.  There is a point where it goes up to 75% for campaigns requesting for money between $25,000 and $35,000 dollars, but we must understand it is a limited data set and the trend might not be truly representative.
+### This is expanded upon in Figure 3.
 ### Challenges and difficulties to this data set is 1) the lack of clarity of failed Kickstarter campaigns 2) and the aged data set itself only going through 2017.  
 ## Results
 
@@ -28,10 +28,9 @@
 ### Conclusions about the Outcomes based on Goals show that keeping fundraisers below $5,000 has a significantly higher success rate than above $5,000.  Also, there is much more data (Kickstarter campaigns) that can be evaluated below $25,000.  
 
 ### Limitations of this dataset show charts can be misleading as there are very few campaigns (less than 40 total both failed and successful) that were over $25,000.
-### Figure 3 below shows an Outcomes Based on Goals but has the Number of Campaigns plotted on a secondary axis to give an additional perspective of what might be expected.  
+### Figure 3 below shows Outcomes Based on Goals but has the Number of Campaigns plotted on a secondary axis to give an additional perspective of how much more Kickstarter data there was to analyize for campaigns below $25,000.  For example, there was 1,004 campaigns below $25,000 versus 42 campaigns above $25,000.
 ![Figure 3 - Outcomes Based on Goals with Number of Campaigns on Secondary Axis](https://github.com/ASCHEET/kickstarter-analysis/blob/main/Outcomes_vs.Goalswnumber_of_campaigns.png?raw=true)
-### Additionally, how long to expect to have a fundraiser open may help to understand when to start or how much time is needed to collect for successful campaigns.  Below, in Figure 4, shows
-### that most successful fundraisers that were given more than 50 days to collect donations were much more successful.  More than 50 days the success vs failure inverses after 60 days showing more 
-### 'failed' campaigns than 'successful'.  
+### Additionally, how long to expect to have a fundraiser open may help to understand when to start or how much time is needed to collect for successful campaigns.  
+### In Figure 4 below, most successful fundraisers that were given up to 30 days to collect donations were much more successful.  More than 50 days of collection, the success vs failure plot intersects after 60 days showing more 'failed' campaigns than 'successful'.  
 ![Figure 4 - Outcomes Based on Funding Duration](https://github.com/ASCHEET/kickstarter-analysis/blob/main/Outcomes_based_on_funding_duration.png?raw=true)
 
