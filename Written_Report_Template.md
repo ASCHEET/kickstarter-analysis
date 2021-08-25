@@ -1,6 +1,7 @@
+
 #Kickstarting with Excel
 
-## This project was requested by Louise after the success of her play 'Fever' came close to her fundraising goal within a short amount of time.
+### This project was requested by Louise after the success of her play 'Fever' came close to her fundraising goal within a short amount of time.
 
 ###  Louise requested analysis of other Kickstarter campaigns that will help her better understand trends within the Kickstarter data she can use to continue to have successful fundraisers.
 
@@ -16,10 +17,11 @@
 
 ### Analysis of Outcomes Based on Goals is shown below in Figure 2. 
 ![Figure 2 - Funding Outcomes Based on Monetary Goal](https://github.com/ASCHEET/kickstarter-analysis/blob/main/Outcomes_vs.Goals.png?raw=true)
-### Figure 2 shows the probability of reaching the crowd funding goals based on the monetary amount requested.  As you can see, fundraising campaigns less than $5,000, have a success rate of greater than 75%.  
+### Figure 2 shows a trend of reaching the crowd funding goals based on the monetary amount requested.  As you can see, fundraising campaigns less than $5,000, have a success rate of greater than 75%.  
 ### The trend decreases as the requested funding amount generally increases.  There is a point where it goes up to 75% for campaigns requesting for money between $25,000 and $35,000 dollars, but we must understand it is a limited data set and the trend might not be truly representative.
 ### This is expanded upon in Figure 3.
 ### Challenges and difficulties to this data set is 1) the lack of clarity of failed Kickstarter campaigns 2) and the aged data set itself only going through 2017.  
+
 ## Results
 
 ### Conclusions you can draw about the Outcomes Based on Launch Date have and average success rate of 39% over failed campaigns during the course of the year.  
