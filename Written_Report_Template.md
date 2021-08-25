@@ -24,13 +24,12 @@
 
 ## Results
 
-### Conclusions you can draw about the Outcomes Based on Launch Date have and average success rate of 39% over failed campaigns during the course of the year.  
-### However, there is a spike in success rates for the months of May, June, and July that are above average (44-51%) respectively.
+### Conclusions you can draw about the Outcomes Based on Launch Date have and average success rate of 39% over failed campaigns during the course of the year.  However, there is a spike in success rates for the months of May, June, and July that are above average (44-51%) respectively.
 
-### Conclusions about the Outcomes based on Goals show that keeping fundraisers below $5,000 has a significantly higher success rate than above $5,000.  Also, there is much more data (Kickstarter campaigns) that can be evaluated below $25,000.  
+### Conclusions about the Outcomes based on Goals show that keeping fundraisers below $5,000 has a significantly higher success rate than above $5,000.  Also, there is much more data (Kickstarter campaigns) that can be evaluated below $25,000.  For example, there was 1,004 campaigns below $25,000 versus 42 campaigns above $25,000.
 
 ### Limitations of this dataset show charts can be misleading as there are very few campaigns (less than 40 total both failed and successful) that were over $25,000.
-### Figure 3 below shows Outcomes Based on Goals but has the Number of Campaigns plotted on a secondary axis to give an additional perspective of how much more Kickstarter data there was to analyize for campaigns below $25,000.  For example, there was 1,004 campaigns below $25,000 versus 42 campaigns above $25,000.
+### Figure 3 below shows Outcomes Based on Goals but has the Number of Campaigns plotted on a secondary axis to give an additional perspective of how much more Kickstarter data there was to analyize for campaigns below $25,000.  
 ![Figure 3 - Outcomes Based on Goals with Number of Campaigns on Secondary Axis](https://github.com/ASCHEET/kickstarter-analysis/blob/main/Outcomes_vs.Goalswnumber_of_campaigns.png?raw=true)
 ### Additionally, how long to expect to have a fundraiser open may help to understand when to start or how much time is needed to collect for successful campaigns.  
 ### In Figure 4 below, most successful fundraisers that were given up to 30 days to collect donations were much more successful.  More than 50 days of collection, the success vs failure plot intersects after 60 days showing more 'failed' campaigns than 'successful'.  
