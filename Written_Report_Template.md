@@ -7,8 +7,7 @@
 ## Analysis and Challenges
 
 ### Over 4,000 Kickstarter campaigns were analyzed based on category, requested goal, date initiated, and if the fundraising goal was met or not.
-### The compiled data started as far back as 2009 up to 2017 and even included current 'live' crowd sourcing campaigns. However, the live campaigns were not overly helpful with analysis and for the most part
-### were excluded.  Categories of Kickstarter campaigns included: film and video, food, games, journalism, music, photography, publishing, technology, and theater.
+### The compiled data started as far back as 2009 up to 2017 and even included current 'live' crowd sourcing campaigns. However, the live campaigns were not overly helpful with analysis and for the most part were excluded.  Categories of Kickstarter campaigns included: film and video, food, games, journalism, music, photography, publishing, technology, and theater.
 
 ### The data was first refined to a Parent Category of 'Theater' and from those a subcategory exclusive of 'Plays' was analyzed to most accurately reflect crowdfunding Louise would find helpful.
 ### This resulting data was organized by Launch Date and plotted based on the overall outcome.  See below in Figure 1.
